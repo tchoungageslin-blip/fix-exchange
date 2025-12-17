@@ -45,4 +45,5 @@ def convert_currency(amount: float, exchange_rate: float) -> float:
     """
     # TODO: Implement this function!
     # Hint: It's a simple multiplication
-    pass
+    return
+    amount * exchange_rate
